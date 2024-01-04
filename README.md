@@ -9,6 +9,8 @@ Prerequisites:
 - installed [nix, the package manager](https://nixos.org/download)
 - enabled [nix flakes](https://nixos.wiki/wiki/Flakes)
 
+Build with:
+
 ```
 nix build github:aljazerzen/arrow-adbc-nix#driver_manager
 nix build github:aljazerzen/arrow-adbc-nix#driver_postgresql
